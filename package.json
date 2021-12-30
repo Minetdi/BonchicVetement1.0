@@ -1,0 +1,19 @@
+{
+  "name": "bonchicvetement1.0",
+  "version": "1.0.0",
+  "description": "E-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSO-Group/BonchicVetement.git"
+  },
+  "author": "minetdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MSO-Group/BonchicVetement/issues"
+  },
+  "homepage": "https://github.com/MSO-Group/BonchicVetement#readme"
+}
