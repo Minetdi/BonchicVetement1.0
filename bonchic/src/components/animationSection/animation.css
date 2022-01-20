@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'Varela Round', sans-serif;
+}
+
+section {
+    padding: 3em;
+    height: 500px;
+    position: relative;
+    box-sizing: border-box;
+}
